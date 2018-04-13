@@ -1,0 +1,32 @@
+.header{background:red;
+padding:6px;
+}
+.header div{color:white;}
+
+.menu{margin-top:20px;}
+
+
+
+.menu .navbar-nav li a{font-weight:bold;color:red;}
+
+.menu .navbar-nav .active a,.menu .navbar-nav .active a:hover{background:red;color:white;}
+.menu .navbar-nav  a:hover{background:red;color;white;}
+
+.menu .navbar-nav li a:hover{background:red;color:white;}
+
+.section {background:red;color:white;padding:20px;font-size:23px;}
+
+
+
+.content h1{font-weight:bold;}
+
+#cats li {
+    list-style:none;
+}
+
+
+@media screen and (max-width: 768px) {
+    h1{
+        font-size:25px;
+    }
+}
